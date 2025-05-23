@@ -8,11 +8,7 @@
 </a>
 </br>
 
-* 📖 Pursuing BTECH in YCCE
-
-* 🎓 DevOps engineer proficient in AWS, GCP, Java, and Flutter.
-
-* 💡 Open to collaborating on projects and innovative ideas. 
+* 🎓 DevOps engineer 
 
 * 💻 Dedicated to continuous learning and staying up-to-date with the latest industry trends.
 
